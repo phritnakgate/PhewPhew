@@ -2,6 +2,7 @@
 <p align="center">Project สำรอง รายวิชา 01076103_Programming Fundamental</p>
 
 <h4 align="center">This project made for academic purpose only!</h4>
+<h4 align="center">/!\ INSTALL FONT BEFORE DOWNLOAD AND RUN /!\</h4>
 
 ## Requirement
 - [X] มีการแสดงรายละเอียด ชื่อ-นามสกุล และรหัสนักศึกษาบนจอภาพ
