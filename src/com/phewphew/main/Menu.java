@@ -39,13 +39,7 @@ public class Menu extends MouseAdapter{
 		this.handler = handler;
 		this.hud = hud;
 		this.game = game;
-		this.shop = shop;
-		
-		/*
-		String audioFilePath = "res/menubgm.wav";
-        AudioPlayer2 menu_bgm = new AudioPlayer2();
-        menu_bgm.play(audioFilePath);
-        */
+		this.shop = shop;		
 	}
 	
 	public void mousePressed(MouseEvent e) {
