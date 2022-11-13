@@ -1,5 +1,5 @@
 <h1 align="center">Phew Phew</h1>
-<p align="center">Project สำรอง รายวิชา 01076103_Programming Fundamental</p>
+<p align="center">Project รายวิชา 01076103_Programming Fundamental</p>
 
 <h4 align="center">This project made for academic purpose only!</h4>
 <h4 align="center">/!\ INSTALL FONT AND JDK-JRE BEFORE DOWNLOAD AND RUN /!\</h4>
