@@ -2,7 +2,7 @@
 <p align="center">Project สำรอง รายวิชา 01076103_Programming Fundamental</p>
 
 <h4 align="center">This project made for academic purpose only!</h4>
-<h4 align="center">/!\ INSTALL FONT BEFORE DOWNLOAD AND RUN /!\</h4>
+<h4 align="center">/!\ INSTALL FONT AND JDK-JRE BEFORE DOWNLOAD AND RUN /!\</h4>
 
 ## Requirement
 - [X] มีการแสดงรายละเอียด ชื่อ-นามสกุล และรหัสนักศึกษาบนจอภาพ
@@ -17,6 +17,8 @@
 - [X] ความท้าทายในเกมส์ต้องค่อยเป็นค่อยไป ไม่ยากจนผู้เล่นไม่สามารถเล่นจนจบเกมส์ได้ และรางวัลกับความท้าทายจะต้องสอดคล้องกัน
 - [X] เป็นเกมส์เดี่ยว ไม่ใช่การรวมเกมส์หลายๆ เกมส์เข้าด้วยกันเป็นชุด
 
-## Code Sources
+## Code&Sound Sources
 
 - [Java WaveGame by RealTutsGML](https://www.youtube.com/playlist?list=PLWms45O3n--6TvZmtFHaCWRZwEqnz2MHa)
+- [MenuBGM - Kevin MacLeod_Pixelland](https://www.youtube.com/watch?v=Z-bi29z4Z1k&ab_channel=KevinMacLeod)
+- [IngameBGM - Komiku-12-Bicycle](https://www.chosic.com/download-audio/24995/)
