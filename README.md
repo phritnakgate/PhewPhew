@@ -3,6 +3,7 @@
 
 <h4 align="center">This project made for academic purpose only!</h4>
 <h4 align="center">/!\ INSTALL FONT AND JDK-JRE BEFORE DOWNLOAD AND RUN /!\</h4>
+<a href="https://buikemkungz.itch.io/phewphew" align="center">LINK FOR DOWNLOAD</a>
 
 ## Requirement
 - [X] มีการแสดงรายละเอียด ชื่อ-นามสกุล และรหัสนักศึกษาบนจอภาพ
